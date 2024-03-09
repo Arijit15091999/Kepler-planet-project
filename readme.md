@@ -14,7 +14,7 @@ function isHabbitable (planet) {
 ```
 
 
-## open the project folder and the  open the termial and run this commands below to run this project. 
+## open the project folder and then  open the termial and run this commands below to run this project. 
 
 ``` javascript
 npm install 
