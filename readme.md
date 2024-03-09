@@ -1,4 +1,4 @@
-# this project is based on the data from the kepler satellite launched bt Nasa 
+# this project is based on the data from the kepler satellite launched by Nasa 
 
 ## planets are sorted fro the data accoring to the following set of parameters given in the data file kepler-data.csv
 
@@ -14,7 +14,7 @@ function isHabbitable (planet) {
 ```
 
 
-## to run this project type open the project folder and the  open the termial and run this commands below . 
+## open the project folder and the  open the termial and run this commands below to run this project. 
 
 ``` javascript
 npm install 
