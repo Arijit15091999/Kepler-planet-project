@@ -1,6 +1,6 @@
 # this project is based on the data from the kepler satellite launched by Nasa 
 
-## planets are sorted fro the data accoring to the following set of parameters given in the data file kepler-data.csv
+## planets are sorted from the data accoring to the following set of parameters given in the data file kepler-data.csv
 
 
 ``` javascript
